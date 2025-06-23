@@ -60,3 +60,13 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+.content cite {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
